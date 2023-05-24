@@ -1,0 +1,25 @@
+Airplane type: PiperCub
+Indicated Air Speed (mph): 65
+Distance to Travel: 30.20
+Time En Route: 46.46 minutes.
+
+Airplane type: PiperArrow
+Indicated Air Speed (mph): 131
+Distance to Travel: 67.30
+Time En Route: 51.37 minutes.
+
+Airplane type: Fighter-Jet
+Indicated Air Speed (mph): 3927
+Distance to Travel: 300.20
+Time En Route: 7.64 minutes.
+
+Airplane type: Boeing777
+Indicated Air Speed (mph): 488
+Distance to Travel: 100.80
+Time En Route: 20.66 minutes.
+
+Airplane type: Military-Helicopter
+Indicated Air Speed (mph): 140
+Distance to Travel: 20.10
+Time En Route: 14.36 minutes.
+

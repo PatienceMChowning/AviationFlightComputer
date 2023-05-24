@@ -1,0 +1,5 @@
+PiperCub 65 30.20 
+PiperArrow 131 67.30
+Fighter-Jet 3927 300.20
+Boeing777 488 100.80
+Military-Helicopter 140 20.10
